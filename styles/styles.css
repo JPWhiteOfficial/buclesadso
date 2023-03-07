@@ -1,0 +1,30 @@
+.h1{
+    color: white;
+    margin-top: 350px;
+    background: rgb(88, 9, 9);
+    width: 1000px;
+    margin-left: 450px;
+    text-align: center;
+    border:1px solid #ecd89f;
+    padding:20px;
+    margin-bottom:15px;
+    -webkit-box-shadow: 15px 10px 40px 18px rgb(255, 0, 0);
+    -moz-box-shadow: 15px 10px 40px 18px rgb(250, 71, 71);
+    box-shadow: 15px 10px 40px 18px rgb(255, 0, 0);
+}
+
+
+.caja {
+    color: white;
+    height: 200px;
+    background: rgb(88, 9, 9);
+    width: 1000px;
+    margin-left: 140px;
+    text-align: center;
+    border:1px solid #ecd89f;
+    padding:20px;
+    margin-bottom:15px;
+    -webkit-box-shadow: 15px 10px 40px 18px rgb(255, 0, 0);
+    -moz-box-shadow: 15px 10px 40px 18px rgb(250, 71, 71);
+    box-shadow: 15px 10px 40px 18px rgb(255, 0, 0);
+}
